@@ -1,5 +1,7 @@
 # email-guesser
 
+[![asciicast](https://asciinema.org/a/496393.svg)](https://asciinema.org/a/496393)
+
 ## Install
 
 ```
